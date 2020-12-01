@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1561789231 source:d:\我的大学\cprograms\matrix\matrixmain.c
+	"MatrixHead.h"
+
+1560236491 d:\我的大学\cprograms\matrix\matrixhead.h
+	<stdio.h>
+	<stdlib.h>
+
+1560236475 source:d:\我的大学\cprograms\matrix\calculate.c
+	"MatrixHead.h"
+
+1561794876 source:d:\我的大学\cprograms\matrix\inout.c
+	"MatrixHead.h"
+

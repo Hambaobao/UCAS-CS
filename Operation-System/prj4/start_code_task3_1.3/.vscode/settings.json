@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "test3.h": "c",
+        "barrier.h": "c",
+        "sched.h": "c"
+    }
+}
